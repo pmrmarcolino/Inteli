@@ -1,1 +1,1 @@
-# Inteli
+# Inteligencia Articial - UFU
